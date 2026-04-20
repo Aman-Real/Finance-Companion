@@ -82,7 +82,7 @@ class DashboardScreen extends StatelessWidget {
                       ),
                       const SizedBox(height: 4),
                       Text(
-                        'HR',
+                        'USER',
                         style: TextStyle(
                           fontSize: 22,
                           fontWeight: FontWeight.bold,

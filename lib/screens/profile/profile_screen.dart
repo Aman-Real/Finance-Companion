@@ -58,7 +58,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         const Text(
-                          'HR',
+                          'USER',
                           style: TextStyle(
                             fontSize: 18,
                             fontWeight: FontWeight.bold,
@@ -66,7 +66,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                         ),
                         const SizedBox(height: 8),
                         Text(
-                          'hr@zorvyn.io',
+                          'user@finance.com',
                           style: TextStyle(color: mutedTextColor),
                         ),
                       ],
